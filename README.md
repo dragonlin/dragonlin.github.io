@@ -13,4 +13,8 @@
 ### 下一步
 计划完善功能 －－7月20日前
 
+<<<<<<< HEAD
 [2个小时教你hexo博客添加评论、打赏、RSS等功能](http://www.jianshu.com/p/5973c05d7100)
+=======
+[2个小时教你hexo博客添加评论、打赏、RSS等功能](http://www.jianshu.com/p/5973c05d7100)
+>>>>>>> 1ebddff1510837e9d7672a7bda03cae33a455e5c
