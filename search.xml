@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="utf-8"?>
+<search>
+  <entry>
+    <title><![CDATA[想跟踪一个项目状态的Dashboard]]></title>
+    <url>%2F2017%2F07%2F24%2F%E6%83%B3%E8%B7%9F%E8%B8%AA%E4%B8%80%E4%B8%AA%E9%A1%B9%E7%9B%AE%E7%8A%B6%E6%80%81%E7%9A%84Dashboard%2F</url>
+    <content type="text"></content>
+  </entry>
+  <entry>
+    <title><![CDATA[创建github+hexo时看到一些不错的博客]]></title>
+    <url>%2F2017%2F07%2F24%2F%E5%88%9B%E5%BB%BAhexo%E6%97%B6%E7%9C%8B%E5%88%B0%E4%B8%80%E4%BA%9B%E4%B8%8D%E9%94%99%E7%9A%84%E5%8D%9A%E5%AE%A2%2F</url>
+    <content type="text"><![CDATA[基于next主题的blog头像动态效果 不错的留言区 居然是一个95后写的blog]]></content>
+  </entry>
+  <entry>
+    <title><![CDATA[关于泰国的事]]></title>
+    <url>%2F2017%2F07%2F24%2F%E5%85%B3%E4%BA%8E%E6%B3%B0%E5%9B%BD%E7%9A%84%E4%BA%8B%2F</url>
+    <content type="text"><![CDATA[关于泰国的事有什么好玩的有什么好买的]]></content>
+      <categories>
+        <category>旅游</category>
+      </categories>
+  </entry>
+  <entry>
+    <title><![CDATA[Python微信库:itchat]]></title>
+    <url>%2F2017%2F07%2F23%2FPython%E5%BE%AE%E4%BF%A1%E5%BA%93-itchat%2F</url>
+    <content type="text"><![CDATA[Python实现的itchat Python实现机器人]]></content>
+      <categories>
+        <category>Python</category>
+      </categories>
+  </entry>
+  <entry>
+    <title><![CDATA[一个不错的设计一个不错的设计网站]]></title>
+    <url>%2F2017%2F07%2F23%2F%E4%B8%80%E4%B8%AA%E4%B8%8D%E9%94%99%E7%9A%84%E8%AE%BE%E8%AE%A1%E4%B8%80%E4%B8%AA%E4%B8%8D%E9%94%99%E7%9A%84%E8%AE%BE%E8%AE%A1%E7%BD%91%E7%AB%99%2F</url>
+    <content type="text"><![CDATA[Dribbble是一个面向创作家、艺术工作者、设计师等创意类作品的人群，提供作品在线服务，供网友在线查看已经完成的作品或者正在创作的作品的交流网站。]]></content>
+      <categories>
+        <category>设计</category>
+      </categories>
+  </entry>
+  <entry>
+    <title><![CDATA[Reveal.js来做一个ppt]]></title>
+    <url>%2F2017%2F07%2F23%2FReveal-js%E6%9D%A5%E5%81%9A%E4%B8%80%E4%B8%AAppt%2F</url>
+    <content type="text"><![CDATA[一个栗子 使用说明]]></content>
+  </entry>
+  <entry>
+    <title><![CDATA[Hexo-NexT:个性化设置]]></title>
+    <url>%2F2017%2F07%2F23%2FHexo-NexT-%E4%B8%AA%E6%80%A7%E5%8C%96%E8%AE%BE%E7%BD%AE%2F</url>
+    <content type="text"><![CDATA[1. 添加背景动画在\themes\next\_config.yml中添加以下字段开启此功能： 12# Canvas-nestcanvas_nest: true 添加完了，发现博客背景是白色，会遮住动画，只留下两边一点点的位置看到动画效果，这时候可以去设置一下背景颜色，在\themes\next\source\css\_schemes\Pisces_layout.styl中，把.content-wrap中的 background 修改为none。 2. 添加音乐随便找了一首歌：http://music.163.com/#/outchain/2/436514254/m/use/htmlhtml 代码如下1&lt;iframe frameborder=&quot;no&quot; border=&quot;0&quot; marginwidth=&quot;0&quot; marginheight=&quot;0&quot; width=330 height=86 src=&quot;//music.163.com/outchain/player?type=2&amp;id=436514254&amp;auto=1&amp;height=66&quot;&gt;&lt;/iframe&gt; 打开目录\themes\next\layout\_custom\header.swigcopy 上述代码,done. 3. 添加High一下打开博客根目录 \themes\next\layout\_partials\header.swig ,在\… /ul&gt;标签之间加入以下代码： 123456789101112131415161718192021222324252627282930313233343536373839404142434445464748495051525354555657585960616263646566676869707172737475767778798081828384858687888990919293949596979899100101102103104105106107108109110111112113114115116117118119120121122123124125126127128129130131132133134135136137&lt;li&gt; &lt;a title=&quot;把这个链接拖到你的Chrome收藏夹工具栏中&quot; href=&apos;javascript:(function() &#123; function c() &#123; var e = document.createElement(&quot;link&quot;); e.setAttribute(&quot;type&quot;, &quot;text/css&quot;); e.setAttribute(&quot;rel&quot;, &quot;stylesheet&quot;); e.setAttribute(&quot;href&quot;, f); e.setAttribute(&quot;class&quot;, l); document.body.appendChild(e) &#125; function h() &#123; var e = document.getElementsByClassName(l); for (var t = 0; t &lt; e.length; t++) &#123; document.body.removeChild(e[t]) &#125; &#125; function p() &#123; var e = document.createElement(&quot;div&quot;); e.setAttribute(&quot;class&quot;, a); document.body.appendChild(e); setTimeout(function() &#123; document.body.removeChild(e) &#125;, 100) &#125; function d(e) &#123; return &#123; height : e.offsetHeight, width : e.offsetWidth &#125; &#125; function v(i) &#123; var s = d(i); return s.height &gt; e &amp;&amp; s.height &lt; n &amp;&amp; s.width &gt; t &amp;&amp; s.width &lt; r &#125; function m(e) &#123; var t = e; var n = 0; while (!!t) &#123; n += t.offsetTop; t = t.offsetParent &#125; return n &#125; function g() &#123; var e = document.documentElement; if (!!window.innerWidth) &#123; return window.innerHeight &#125; else if (e &amp;&amp; !isNaN(e.clientHeight)) &#123; return e.clientHeight &#125; return 0 &#125; function y() &#123; if (window.pageYOffset) &#123; return window.pageYOffset &#125; return Math.max(document.documentElement.scrollTop, document.body.scrollTop) &#125; function E(e) &#123; var t = m(e); return t &gt;= w &amp;&amp; t &lt;= b + w &#125; function S() &#123; var e = document.createElement(&quot;audio&quot;); e.setAttribute(&quot;class&quot;, l); e.src = i; e.loop = false; e.addEventListener(&quot;canplay&quot;, function() &#123; setTimeout(function() &#123; x(k) &#125;, 500); setTimeout(function() &#123; N(); p(); for (var e = 0; e &lt; O.length; e++) &#123; T(O[e]) &#125; &#125;, 15500) &#125;, true); e.addEventListener(&quot;ended&quot;, function() &#123; N(); h() &#125;, true); e.innerHTML = &quot; &lt;p&gt;If you are reading this, it is because your browser does not support the audio element. We recommend that you get a new browser.&lt;/p&gt; &lt;p&gt;&quot;; document.body.appendChild(e); e.play() &#125; function x(e) &#123; e.className += &quot; &quot; + s + &quot; &quot; + o &#125; function T(e) &#123; e.className += &quot; &quot; + s + &quot; &quot; + u[Math.floor(Math.random() * u.length)] &#125; function N() &#123; var e = document.getElementsByClassName(s); var t = new RegExp(&quot;\\b&quot; + s + &quot;\\b&quot;); for (var n = 0; n &lt; e.length; ) &#123; e[n].className = e[n].className.replace(t, &quot;&quot;) &#125; &#125; var e = 30; var t = 30; var n = 350; var r = 350; var i = &quot;//7xuupy.com1.z0.glb.clouddn.com/tongxingSibel%20-%20Im%20Sorry.mp3&quot;; var s = &quot;mw-harlem_shake_me&quot;; var o = &quot;im_first&quot;; var u = [&quot;im_drunk&quot;, &quot;im_baked&quot;, &quot;im_trippin&quot;, &quot;im_blown&quot;]; var a = &quot;mw-strobe_light&quot;; var f = &quot;//s3.amazonaws.com/moovweb-marketing/playground/harlem-shake-style.css&quot;; var l = &quot;mw_added_css&quot;; var b = g(); var w = y(); var C = document.getElementsByTagName(&quot;*&quot;); var k = null; for (var L = 0; L &lt; C.length; L++) &#123; var A = C[L]; if (v(A)) &#123; if (E(A)) &#123; k = A; break &#125; &#125; &#125; if (A === null) &#123; console.warn(&quot;Could not find a node of the right size. Please try a different page.&quot;); return &#125; c(); S(); var O = []; for (var L = 0; L &lt; C.length; L++) &#123; var A = C[L]; if (v(A)) &#123; O.push(A) &#125; &#125; &#125;)() &apos;&gt;High一下&lt;/a&gt; &lt;/li&gt; 4. 添加点击💗 样式 将 love.js 文件添加到 \themes\next\source\js\src 文件目录下。 找到 \themes\next\layout\_layout.swing 文件， 在文件的后面， 标签之前 添加以下代码：12&lt;!-- 页面点击小红心 --&gt;&lt;script type=&quot;text/javascript&quot; src=&quot;/js/src/love.js&quot;&gt;&lt;/script&gt; 5. 为博客加上GitHub丝带如果是Next主题（其他主题也差不多），添加GitHub丝带：在themes\next\layout\_layout.swig 中加入相关代码，记得修改自己的链接。 相关代码你可以在GitHub官方网站GitHub Ribbons上进行选择。 6.添加Local Search功能安装 hexo 插件 在你的站点文件夹中，用shell等运行下面这行代码：1$ npm install hexo-generator-searchdb --save 启用本地搜索 编辑主题配置文件启用本地搜索123# Local searchlocal_search: enable: true 编辑站点配置文件 添加以下字段：12345search: path: search.xml field: post format: html limit: 10000 7. 自定义more这里开始使用markdown格式输入你的正文。123&lt;!--more--&gt; #more标签以下的内容要点击“阅读全文”才能看见#more标签以上的内容为你首页显示文章的摘要部分 8. 头像👦动画效果试试吧123456789.site-author-image &#123; border-radius: 100%; animation: cycle 2s 0.5s forwards; transition: border-radius 2s;&#125;.site-author-image:hover &#123; border-radius: 0; border: 2px solid #0ff;&#125;]]></content>
+      <categories>
+        <category>Hexo</category>
+      </categories>
+  </entry>
+  <entry>
+    <title><![CDATA[Mac install pip]]></title>
+    <url>%2F2017%2F07%2F20%2F20170720Mac-install-pip%2F</url>
+    <content type="text"><![CDATA[Mac 安装 pip1. Install easy_install 1curl https://bootstrap.pypa.io/ez_setup.py -o - | sudo python 2. easy_install pip 1sudo easy_install pip 3. Now, you could install external modules. 1pip install pygerrit2 if you see error like: Exception:Traceback (most recent call last): File “/Library/Python/2.7/site-packages/pip-9.0.1-py2.7.egg/pip/basecommand.py”, line 215, in main status = self.run(options, args) File “/Library/Python/2.7/site-packages/pip-9.0.1-py2.7.egg/pip/commands/install.py”, line 342, in run prefix=options.prefix_path, File “/Library/Python/2.7/site-packages/pip-9.0.1-py2.7.egg/pip/req/req_set.py”, line 784, in install **kwargs File “/Library/Python/2.7/site-packages/pip-9.0.1-py2.7.egg/pip/req/req_install.py”, line 851, in install self.move_wheel_files(self.source_dir, root=root, prefix=prefix) File “/Library/Python/2.7/site-packages/pip-9.0.1-py2.7.egg/pip/req/req_install.py”, line 1064, in move_wheel_files isolated=self.isolated, File “/Library/Python/2.7/site-packages/pip-9.0.1-py2.7.egg/pip/wheel.py”, line 345, in move_wheel_files clobber(source, lib_dir, True) File “/Library/Python/2.7/site-packages/pip-9.0.1-py2.7.egg/pip/wheel.py”, line 316, in clobber ensure_dir(destdir) File “/Library/Python/2.7/site-packages/pip-9.0.1-py2.7.egg/pip/utils/init.py”, line 83, in ensure_dir os.makedirs(path) File “/System/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/os.py”, line 157, in makedirs mkdir(name, mode)OSError: [Errno 13] Permission denied: ‘/Library/Python/2.7/site-packages/pbr’ 1sudo pip install pygerrit2]]></content>
+      <categories>
+        <category>Python</category>
+      </categories>
+      <tags>
+        <tag>python</tag>
+        <tag>mac</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title><![CDATA[一些工作中常用的CSS]]></title>
+    <url>%2F2017%2F07%2F11%2Fgood-use-css%2F</url>
+    <content type="text"><![CDATA[尝试整理和集合工作中经常遇到的css小技巧… 单行超出省略字12345.div&#123; overflow: hidden; text-overflow: ellipsis; white-space: nowrap; &#125; placeholder颜色123input::-webkit-input-placeholder&#123; color: #666;&#125; 禁止文本选择1234567.div&#123; -moz-user-select:none; -webkit-user-select:none; -ms-user-select:none; -khtml-user-select:none; user-select:none;&#125; 表单100%宽，但是有padding12345input&#123; -webkit-box-sizing: border-box; -moz-box-sizing: border-box; box-sizing: border-box;&#125; 横向滚动12345.div&#123; white-space: nowrap; overflow-x: auto; overflow-y: hidden;&#125; 不断更新]]></content>
+      <categories>
+        <category>css</category>
+      </categories>
+  </entry>
+  <entry>
+    <title><![CDATA[angular2]]></title>
+    <url>%2F2017%2F07%2F09%2F20170712angular2%2F</url>
+    <content type="text"><![CDATA[to be continued..]]></content>
+      <categories>
+        <category>angular 2</category>
+      </categories>
+  </entry>
+  <entry>
+    <title><![CDATA[angular 1.5]]></title>
+    <url>%2F2017%2F07%2F09%2F20170710angular1-5%2F</url>
+    <content type="text"><![CDATA[to be continued..]]></content>
+      <categories>
+        <category>angular 1.5</category>
+      </categories>
+  </entry>
+  <entry>
+    <title><![CDATA[You don't know Javascript]]></title>
+    <url>%2F2017%2F07%2F09%2F20170709Youdon-tknowJavascript%2F</url>
+    <content type="text"><![CDATA[to be continue…]]></content>
+      <categories>
+        <category>javascript</category>
+      </categories>
+  </entry>
+  <entry>
+    <title><![CDATA[你好]]></title>
+    <url>%2F2017%2F07%2F09%2Ffirst_blog%2F</url>
+    <content type="text"><![CDATA[这是我的第一篇文章 欢迎来到我的blog]]></content>
+  </entry>
+  <entry>
+    <title><![CDATA[Hello World]]></title>
+    <url>%2F2017%2F07%2F09%2Fhello-world%2F</url>
+    <content type="text"><![CDATA[Welcome to Hexo! This is your very first post. Check documentation for more info. If you get any problems when using Hexo, you can find the answer in troubleshooting or you can ask me on GitHub. Quick StartCreate a new post1$ hexo new "My New Post" More info: Writing Run server1$ hexo server More info: Server Generate static files1$ hexo generate More info: Generating Deploy to remote sites1$ hexo deploy More info: Deployment 标签和分类12345678---title: My New Postdate: 2017-07-09 18:57:13tags: - tag1 - tag2categories: xxx--- 冒号后面要有空格 –好像不一定要有空格 可以没有应该在 —之上，—下面是页面内容令：要添加tags和categories页面；且主题的配置文件和站点的配置文件tags和categories的注释要打开 添加标签1$ hexo new page tags 确认站点配置文件里有tag_dir: tags确认主题配置文件里有tags: /tags编辑站点的source/tags/index.md，添加 1234title: tagsdate: 2017-07-09 18:39:01type: "tags"comments: false 添加分类1$ hexo new page categories 确认站点配置文件里有category_dir: categories确认主题配置文件里有categories: /categories编辑站点的source/categories/index.md，添加1234title: categoriesdate: 2017-07-09 18:47:06type: "categories"comments: false]]></content>
+      <categories>
+        <category>Hexo</category>
+      </categories>
+      <tags>
+        <tag>hexo</tag>
+      </tags>
+  </entry>
+</search>
