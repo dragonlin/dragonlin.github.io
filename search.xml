@@ -1,6 +1,22 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
+    <title><![CDATA[关于泰国的事]]></title>
+    <url>%2F2017%2F07%2F24%2F%E5%85%B3%E4%BA%8E%E6%B3%B0%E5%9B%BD%E7%9A%84%E4%BA%8B%2F</url>
+    <content type="text"><![CDATA[关于泰国的事有什么好玩的有什么好买的…to be continued]]></content>
+      <categories>
+        <category>旅游</category>
+      </categories>
+  </entry>
+  <entry>
+    <title><![CDATA[Hexo插入音频和视频]]></title>
+    <url>%2F2017%2F07%2F24%2FHexo%E6%8F%92%E5%85%A5%E9%9F%B3%E9%A2%91%E5%92%8C%E8%A7%86%E9%A2%91%2F</url>
+    <content type="text"><![CDATA[通过 Hexo 插件插入音乐/视频这里需要使用两个播放器插件123hexo-tag-aplayer:https://github.com/grzhan/hexo-tag-aplayer#upstream-issuehexo-tag-dplayer:https://github.com/NextMoe/hexo-tag-dplayer 两款插件基于 DIYgod 编写的 html5 播放器 APlayer 和 DPlayer 开发 具体参看:http://www.jianshu.com/p/53e0d2a617da]]></content>
+      <categories>
+        <category>Hexo</category>
+      </categories>
+  </entry>
+  <entry>
     <title><![CDATA[想跟踪一个项目状态的Dashboard]]></title>
     <url>%2F2017%2F07%2F24%2F%E6%83%B3%E8%B7%9F%E8%B8%AA%E4%B8%80%E4%B8%AA%E9%A1%B9%E7%9B%AE%E7%8A%B6%E6%80%81%E7%9A%84Dashboard%2F</url>
     <content type="text"></content>
@@ -9,14 +25,6 @@
     <title><![CDATA[创建github+hexo时看到一些不错的博客]]></title>
     <url>%2F2017%2F07%2F24%2F%E5%88%9B%E5%BB%BAhexo%E6%97%B6%E7%9C%8B%E5%88%B0%E4%B8%80%E4%BA%9B%E4%B8%8D%E9%94%99%E7%9A%84%E5%8D%9A%E5%AE%A2%2F</url>
     <content type="text"><![CDATA[基于next主题的blog头像动态效果 不错的留言区 居然是一个95后写的blog]]></content>
-  </entry>
-  <entry>
-    <title><![CDATA[关于泰国的事]]></title>
-    <url>%2F2017%2F07%2F24%2F%E5%85%B3%E4%BA%8E%E6%B3%B0%E5%9B%BD%E7%9A%84%E4%BA%8B%2F</url>
-    <content type="text"><![CDATA[关于泰国的事有什么好玩的有什么好买的]]></content>
-      <categories>
-        <category>旅游</category>
-      </categories>
   </entry>
   <entry>
     <title><![CDATA[Python微信库:itchat]]></title>
