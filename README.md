@@ -1,5 +1,7 @@
 ## Welcome to Dragon Pages
 
+[![Join the chat at https://gitter.im/dragonlin/dragonlin.github.io](https://badges.gitter.im/dragonlin/dragonlin.github.io.svg)](https://gitter.im/dragonlin/dragonlin.github.io?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 很早就像搭建一个属于自己的技术博客了，听说过hexo、jekyll、wordpress等快速blog生成工具，今天折腾了下，目前我使用的是hexo 主题使用的[next](https://github.com/iissnan/hexo-theme-next)
 
 ### 第一阶段
